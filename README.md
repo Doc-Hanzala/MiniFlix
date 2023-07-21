@@ -11,6 +11,7 @@ MiniFlix is like an imdb website where you can search your favourite movie. You 
 - React Icons
 - Abort Controller
 - API Call
+- Local Storage
 
   # How to Run
   - Download the zip File
