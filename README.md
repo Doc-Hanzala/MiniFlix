@@ -21,5 +21,5 @@ MiniFlix is like an imdb website where you can search your favourite movie. You 
   -  Run " npm run dev " in terminal
   -  Open the link
  
-    # Live Preview
+    # Demo
   [Mini-Flix.webm](https://github.com/Doc-Hanzala/MiniFlix/assets/129552329/244c3090-1502-45fa-b028-44c55ac0a141)
